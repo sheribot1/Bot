@@ -1,4 +1,0 @@
-flask
-google-genai
-python-telegram-bot
-gunicorn
